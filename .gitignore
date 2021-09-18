@@ -1,0 +1,9 @@
+*.pyc
+*.db
+venv
+.vscode
+tokens.py
+*.log
+service_account.json
+testcr.py
+
